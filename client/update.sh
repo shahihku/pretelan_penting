@@ -5,7 +5,6 @@ cd /root/client
 chmod +x *
 cp * /usr/bin
 cd
-rm update.zip
+rm update*
 rm -r /root/client
-rm update.sh
 cd
