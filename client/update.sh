@@ -4,10 +4,9 @@ unzip update.zip
 cd /root/client
 chmod +x *
 cp * /usr/bin
-clear
+cd
 rm update.zip
 rm -r /root/client
 rm update.sh
-clear
 history -c
 cd
