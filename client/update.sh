@@ -5,6 +5,6 @@ cd /root/client
 chmod +x *
 cp * /usr/bin
 cd
-rm update*
+rm -rf update*
 rm -r /root/client
 cd
