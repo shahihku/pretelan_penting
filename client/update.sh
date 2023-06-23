@@ -8,5 +8,4 @@ cd
 rm update.zip
 rm -r /root/client
 rm update.sh
-history -c
 cd
